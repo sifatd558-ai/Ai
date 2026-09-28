@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Suite Pro - Digital Marketing & SEO Platform",
+  "description": "All-in-one AI suite for YouTube SEO, Google & Meta Ads, Website SEO, Content Writing, and Digital Marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
